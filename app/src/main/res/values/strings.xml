@@ -11,5 +11,8 @@
     <string name="btn_profile">profile</string>
     <string name="btn_notifications">notify</string>
     <string name="dashboard_search">search here</string>
+    <string name="userDirection_text">user</string>
+    <string name="userDirection_buyer">user</string>
+    <string name="userDirection_exporter">user</string>
 
 </resources>
