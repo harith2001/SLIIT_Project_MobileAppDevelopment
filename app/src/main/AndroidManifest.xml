@@ -12,6 +12,9 @@
         android:theme="@style/Theme.Exportify"
         tools:targetApi="31">
         <activity
+            android:name=".Exporter_dashboard"
+            android:exported="false" />
+        <activity
             android:name=".Buyer_dashboard"
             android:exported="false" />
         <activity
