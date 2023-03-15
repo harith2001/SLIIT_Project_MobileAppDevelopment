@@ -116,6 +116,7 @@
     <string name="registration_terms">Zipcode</string>
     <string name="registration_btn_register">Zipcode</string>
     <string name="registration_btn_cancel">Zipcode</string>
-    <string name="registration_description">Description about the service you need</string>
+    <string name="registration_buyer_description">Description about the service you need</string>
+    <string name="registration_exporter_description">Description about the service you provide</string>
 
 </resources>
