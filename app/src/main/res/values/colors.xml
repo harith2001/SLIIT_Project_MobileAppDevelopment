@@ -10,4 +10,6 @@
     <color name="btn_login">#71d203</color>
     <color name="btn_register">#71d203</color>
     <color name="green">#84f504</color>
+    <color name="dark_green">#65cf06</color>
+
 </resources>

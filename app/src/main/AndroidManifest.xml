@@ -12,6 +12,9 @@
         android:theme="@style/Theme.Exportify"
         tools:targetApi="31">
         <activity
+            android:name=".Chatbox"
+            android:exported="false" />
+        <activity
             android:name=".Exporter_registration"
             android:exported="false" />
         <activity
