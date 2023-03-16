@@ -123,5 +123,7 @@
     <string name="chat_btn_back"></string>
     <string name="chat_btn_send"></string>
     <string name="chat_inputtext">send message</string>
+    <string name="btn_userprofile_update"></string>
+    <string name="btn_userprofile_delete"></string>
 
 </resources>
